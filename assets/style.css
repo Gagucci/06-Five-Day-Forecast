@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    background: linear-gradient(to bottom, #87CEEB, #1E90FF);
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+    border-radius: 0px 5px;
+}
